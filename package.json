@@ -1,0 +1,17 @@
+{
+  "name": "xdevapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mysql/xdevapi": "^8.0.25",
+    "@newrelic/xdevapi": "git+https://github.com/haihongren/node-newrelic-xdevapi.git",
+    "newrelic": "^7.5.2"
+  }
+}
